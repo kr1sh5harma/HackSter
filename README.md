@@ -265,10 +265,6 @@ git commit -m "feat: add your feature"
 git push origin feature/your-feature-name
 ```
 
----
 
-<div align="center">
 
-Made with ❤️ by [Harsh Sharma](https://github.com/kr1sh5harma)
 
-</div>
